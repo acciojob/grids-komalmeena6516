@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.row{
+    height:150px;
+    margin-bottom: 12px;
+    background-color: rgb(118, 36, 36);
+
+}
+.container{
+    border: 8px solid rgb(55, 177, 55);
+    padding: 10px 20px;
+    background-color: darksalmon;
+}
+.row >div{
+    border: 1.5px dotted black;
+}
